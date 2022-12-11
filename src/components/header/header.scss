@@ -1,0 +1,38 @@
+.containers {
+    padding: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+    background-color:#292929 ;
+
+    .left {
+      display: flex;
+      align-items: center;
+
+      img {
+        height: 25px;
+        margin-right: 40px;
+      }
+
+      .mya {
+       // margin-right: 20px;
+        cursor: pointer;
+        padding: 10px;
+        border: solid 1px ;
+        font-family:none;
+        color: #ffffff;
+         
+      }
+    }
+   
+}
+
+@media only screen and (max-width:375px){
+       .mya{
+        text-align: center;
+        align-content: center;
+        margin-left: 50%;
+      }
+    }

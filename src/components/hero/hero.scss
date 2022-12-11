@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+.info {
+  background-image: url(../images/lolo.png);
+  width: 100%;
+  height: 550px;
+    img {
+      width: 400px;
+    }
+
+    .desc {
+        position: absolute;
+        width: 490px;
+        height: 282px;
+        left: 77px;
+        top: 247px;
+        color: #ffff;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 94px;
+      
+    }
+}

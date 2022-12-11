@@ -1,0 +1,49 @@
+.srch {
+   
+    height: 100%;
+    background-color: #ffff;
+   margin-left: 10%;
+   margin-bottom: 10%;
+   line-height: 2px;
+   
+    
+
+    
+    .input {
+        width: 1000px;
+       
+        display: flex;
+        border: solid #000000 1px;
+        justify-content: flex-start;
+        
+        height: 50px;
+        
+        
+  
+        input{
+            flex: 9;
+            height: 100%;
+            width: 100%;
+            border: #000000 solid 2px ;
+            border-radius: none;
+            padding: 0 10px;
+            color: #000000;
+            
+        }
+  
+        
+
+    }
+
+
+}
+
+.tex{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+
+
+color: #000000;
+}
